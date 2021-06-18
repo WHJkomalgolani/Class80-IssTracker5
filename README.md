@@ -1,9 +1,8 @@
-Youtube link:
-https://youtu.be/dduzslkEl1Q
+Youtube link: https://youtu.be/B4H04eb9wnM
 
+Snack link(Expo Version 41):
+https://snack.expo.io/@komalgolani/v3-class80_isstracker5
 
-Snack link:
-https://snack.expo.io/@komalgolani/class80--iss-tracker-5
+Note: Please ask the student to check output on phone.
 
-Note: Please ask the student to check output on phone.Version 38
 Since we are using map function, if we check output on Web it will give error.
